@@ -1,0 +1,48 @@
+h1{
+  font-family: sans-serif;
+  color: rgb(78, 136, 123);
+}
+
+p{
+  color: rgb(78, 136, 123);
+  font-weight: 600;
+  font-size: 3em;
+}
+
+body{
+  background-color: rgb(65, 65, 65);
+  font-size: 16px;
+}
+
+#Amarelo{
+  background-color: yellow;
+  color: rgb(41, 41, 41);
+  font-style: oblique;
+  line-height: 4em;
+  margin-left: 0cm;
+}
+#Vermelho{
+  background-color: red;
+  color: rgb(41, 41, 41);
+  font-style:italic;
+  line-height: 4em;
+  margin-left: 0cm;
+  
+}
+#Marrom{
+  background-color: brown;
+  color: rgb(41, 41, 41);
+  font-style: inherit;
+  line-height: 4em;
+  margin-left: 0cm;
+
+}
+
+ul{
+  background-color: rgb(117, 117, 117);
+
+}
+
+li{
+  background-color: gray;
+  }
