@@ -1,0 +1,23 @@
+{
+  "name": "ExerciciosTrybe",
+  "version": "1.0.0",
+  "description": "Primeira aula sobre GitHub, aprendendo a criar repositorios e fazer as interaçoes necessarias para isso.\r alo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonardoZaramello/ExerciciosTrybe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeonardoZaramello/ExerciciosTrybe/issues"
+  },
+  "homepage": "https://github.com/LeonardoZaramello/ExerciciosTrybe#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
